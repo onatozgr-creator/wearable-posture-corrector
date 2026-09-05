@@ -81,14 +81,6 @@ A common issue in posture tracking is false triggering caused by normal, transie
 
 ---
 
-## 📁 Repository Contents
-
-<img width="1920" height="1080" alt="posture" src="https://github.com/user-attachments/assets/c9168913-7908-46c6-9bf8-2006f94f8cb1" />
-
-<img width="921" height="1228" alt="posture" src="https://github.com/user-attachments/assets/dda51cd2-02a7-4c8e-8c87-7600d82a2de6" />
-
-https://github.com/user-attachments/assets/60d5352d-8aee-40ff-b354-cfa420b457c4
-
 ```text
 ├── firmware/
 │   └── posture_detector.ino    # Arduino C++ source code (IMU read & state logic)
@@ -99,3 +91,13 @@ https://github.com/user-attachments/assets/60d5352d-8aee-40ff-b354-cfa420b457c4
 │   └── prototype_build.jpg     # Assembled bench prototype photo
 └── README.md                   # Project overview & documentation
 ```
+---
+## 📁 Repository Contents
+
+<img width="1920" height="1080" alt="posture" src="https://github.com/user-attachments/assets/c9168913-7908-46c6-9bf8-2006f94f8cb1" />
+
+<img width="921" height="1228" alt="posture" src="https://github.com/user-attachments/assets/dda51cd2-02a7-4c8e-8c87-7600d82a2de6" />
+
+https://github.com/user-attachments/assets/60d5352d-8aee-40ff-b354-cfa420b457c4
+
+
